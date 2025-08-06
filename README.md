@@ -3,7 +3,9 @@
   🚀 <a href="https://github.com/salonikahar">A full-stack developer</a> 🚀
 </h3>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salonikahar&label=Profile%20views&color=brightgreen&style=flat" alt="salonikahar" />
+</p>
 
 ---
 
