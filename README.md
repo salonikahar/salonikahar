@@ -3,9 +3,7 @@
   🚀 <a href="https://github.com/salonikahar">A full-stack developer</a> 🚀
 </h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonikahar&theme=github-compact" alt="GitHub Activity Graph"/>
-</p>
+
 
 ---
 
