@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web designing and development**
 - 🌱 I’m currently learning **MERN Stack**
-- 📫 How to reach me: **salonikahar@gmail.com**
+- 📫 How to reach me: **salonikahar20@gmail.com**
 
 ---
 
