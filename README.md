@@ -33,22 +33,26 @@
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonikahar&theme=algolia&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=salonikahar&theme=dark&hide_border=false" />
+
 </p>
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salonikahar&show_icons=true&theme=radical" alt="Saloni's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salonikahar&show_icons=true&theme=radical" />
+
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonikahar&layout=compact&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonikahar&layout=compact&theme=radical" />
+
 </p>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=salonikahar&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonikahar&theme=github-compact" />
+
 </p>
 
 ---
