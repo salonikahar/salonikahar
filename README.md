@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saloni Kahar</h1>
-<h3 align="center">🚀 A Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">
+  🚀 <a href="https://github.com/salonikahar">A full-stack developer</a> 🚀
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salonikahar&label=Profile%20views&color=brightgreen&style=flat" alt="salonikahar" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonikahar&theme=github-compact" alt="GitHub Activity Graph"/>
 </p>
 
 ---
